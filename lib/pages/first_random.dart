@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:sevendays/widgets/theme.dart';
-import 'package:sevendays/widgets/card_list.dart';
+import 'package:sevendays/widgets/cart_list.dart';
 
 class FirstRandom extends StatelessWidget {
 
